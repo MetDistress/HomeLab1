@@ -9,8 +9,9 @@ irm https://massgrave.dev/get | iex
 <h2>Languages and Utilities Used</h2>
 <h2>Environments Used</h2>
 <h2>Resources</h2>
-<p>VirtualBox</p><br>
-<p>Microsoft Server 2019</p><br>
-<p>Windows 10 ISO</p><br>
+<p>VirtualBox<br>
+Microsoft Server 2019<br>
+Windows 10 ISO</p>
 <h2>Works Sited</h2>
-<p>MassGrave: https://massgrave.dev/</p>
+<p>MassGrave: https://massgrave.dev/<br>
+  Reddit: https://www.reddit.com/r/sysadmin/comments/15pkzym/windows_server_2019_license/<br></p>
