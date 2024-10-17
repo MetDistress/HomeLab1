@@ -6,10 +6,10 @@ To complete this lab, I have installed VirtualBox to run my virtual machines. I 
 <img src="HomeLab1_Pics\powershell_windows_product_key.png" alt="irm https://massgrave.dev/get | iex"> <br>
 I now had a Windows Server Virtual Machine with a valid product key. Following this, through server manager, I navigated to Manage > Add Roles and Features, and installed Active Directory Domain Services. After this I navigated to the Flag > Promote this server to Domain Controller. I named the domain ejc.local and finished going through the AD DS Configuration Wizard. 
 ## Languages and Utilities Used
-  Active Directory
+  Active Directory <br>
   PowerShell
 ## Environments Used
-  Virtual Box
+  Virtual Box <br>
   Microsoft Server 2019
 ## Resources
   VirtualBox: https://www.virtualbox.org/wiki/Downloads <br>
