@@ -1,10 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Windows Server Home Lab with Active Directory</title>
-</head>
 <body>
     <h1>Windows Server Home Lab with Active Directory and Domain Controller</h1>
     
