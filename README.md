@@ -67,9 +67,9 @@ Below are the final settings for the Ethernet connection after configuring the s
 ## Image Information
 
 ### Ethernet Settings
-![Ethernet Settings](HomeLab1\image5.png)
+![Ethernet Settings](HomeLab1\image5.png)<img src="HomeLab1_Pics\image5.png" alt="Image description" width="600">
 
 ### Domain Controller Setup
-![Domain Controller Setup](Homelab1\image3.png)
+![Domain Controller Setup](Homelab1\image3.png)<img src="HomeLab1_Pics\image3.png" alt="Image description" width="600">
 
 ---
